@@ -1,6 +1,5 @@
 # Generic Abstract and Generic Interface
-In this lesson I learned about Generic Abstract and Generic Interface. At first it was very difficult for me to understand. Eclipse kept crashing and deleting everything.
-I read a Java book from the beginning and then everything connected for me. After that I was able to understand what was happening in the code.
+In this lesson I learned about Generic Abstract and Generic Interface.
 ### What I Did
 * Created an interface
 * Created an abstract class
@@ -13,8 +12,8 @@ I read a Java book from the beginning and then everything connected for me. Afte
 * Generics
 * Inheritance
 ---
-בשיעור זה למדתי על Generic Abstract ו־Generic Interface. בהתחלה היה לי מאוד קשה להבין את החומר. Eclipse כל הזמן קרס ומחק לי דברים.
-קראתי ספר Java מההתחלה ואז הכל התחבר לי. לאחר מכן הצלחתי להבין מה קורה בקוד.
+# Generic Abstract and Generic Interface
+בשיעור זה למדתי על Generic Abstract ו־Generic Interface.
 ### מה עשיתי
 * יצרתי Interface
 * יצרתי Abstract Class
